@@ -12,6 +12,7 @@ const config: Config = {
       "text-darkMode": "#A6ADBA",
       "primaryColor-darkMode": "#319B8B",
       "contrastColor-darkMode": "#191E24",
+      "background-dark-darkMode": "#111519",
     },
     extend: {},
   },
